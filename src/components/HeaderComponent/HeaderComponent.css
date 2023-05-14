@@ -1,0 +1,16 @@
+.HeaderComponent__container {
+   margin: 0 auto;
+   /* Ширина блока */
+   width: 25rem;
+   /* Внутренний отступ (верх, право, низ, лево)*/
+   padding: 0.5rem 2rem 0.5rem 2rem;
+   background-color: rgb(226, 226, 226);
+   border-radius: 10px;
+}
+
+.HeaderComponent__container_header {
+   /* Внешний отступ */
+   margin: 0;
+   font-size: 1.8rem;
+   font-weight: 500;
+}

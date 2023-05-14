@@ -1,0 +1,31 @@
+.ContainerComponent__container {
+   margin: 0 auto;
+   margin-top: 2rem;
+   /* Ширина блока */
+   width: 25rem;
+   /* Внутренний отступ (верх, право, низ, лево)*/
+   padding: 0.5rem 2rem 0.5rem 2rem;
+   background-color: rgb(226, 226, 226);
+   border-radius: 10px;
+}
+
+.ContainerComponent__container_header {
+   /* Общий отступ*/
+   margin: 0;
+   /* Нижний отступ заголовка*/
+   margin-bottom: 1rem;
+   font-size: 1.8rem;
+   font-weight: 500;
+}
+
+.ContainerComponent__container_img {
+   margin: 0 auto;
+   background-color: rgb(242, 192, 255);
+   height: 20rem;
+   /* width: 20rem; */
+}
+
+.ContainerComponent__container_description {
+   /* Внутренний отступ (верх, право, низ, лево)*/
+   margin: 1rem 0rem 1rem 0rem;
+}
